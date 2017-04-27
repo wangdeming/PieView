@@ -50,4 +50,4 @@
     示例图如下：
     
     
-    ![](https://github.com/wangdeming/PieView/blob/master/PieView.tiff)
+    ![示例图片](https://github.com/wangdeming/PieView/blob/master/PieView.tiff)
