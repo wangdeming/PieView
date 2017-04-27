@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  PieView
 //
-//  Created by 赵诣 on 16/2/3.
+//  Created by 王德明 on 2016/08/13.
 //  Copyright © 2016年 apple. All rights reserved.
 //
 

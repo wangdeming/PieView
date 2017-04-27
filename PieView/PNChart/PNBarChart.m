@@ -2,8 +2,8 @@
 //  PNBarChart.m
 //  PNChartDemo
 //
-//  Created by kevin on 11/7/13.
-//  Copyright (c) 2013年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import "PNBarChart.h"

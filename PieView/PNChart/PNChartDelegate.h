@@ -2,8 +2,8 @@
 //  PNChartDelegate.h
 //  PNChartDemo
 //
-//  Created by kevinzhow on 13-12-11.
-//  Copyright (c) 2013年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

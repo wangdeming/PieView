@@ -1,6 +1,6 @@
 //
-// Created by Jörg Polakowski on 14/12/13.
-// Copyright (c) 2013 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

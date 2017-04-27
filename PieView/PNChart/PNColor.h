@@ -2,8 +2,8 @@
 //  PNColor.h
 //  PNChart
 //
-//  Created by kevin on 13-6-8.
-//  Copyright (c) 2013年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

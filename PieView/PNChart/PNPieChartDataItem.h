@@ -2,8 +2,8 @@
 //  PNPieChartDataItem.h
 //  PNChartDemo
 //
-//  Created by Hang Zhang on 14-5-5.
-//  Copyright (c) 2014年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

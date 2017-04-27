@@ -2,8 +2,8 @@
 //  PNCircleChart.m
 //  PNChartDemo
 //
-//  Created by kevinzhow on 13-11-30.
-//  Copyright (c) 2013年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import "PNCircleChart.h"

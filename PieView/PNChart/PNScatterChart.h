@@ -2,8 +2,8 @@
 //  PNScatterChart.h
 //  PNChartDemo
 //
-//  Created by Alireza Arabi on 12/4/14.
-//  Copyright (c) 2014 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

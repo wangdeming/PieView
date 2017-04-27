@@ -2,8 +2,8 @@
 //  PNRadarChart.m
 //  PNChartDemo
 //
-//  Created by Lei on 15/7/1.
-//  Copyright (c) 2015年 kevinzhow. All rights reserved.
+//  Created by 王德明 on 2016/08/13.
+//  Copyright © 2016年 apple. All rights reserved.
 //
 
 #import "PNRadarChart.h"
